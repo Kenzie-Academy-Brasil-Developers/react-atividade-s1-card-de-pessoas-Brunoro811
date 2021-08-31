@@ -1,0 +1,15 @@
+:root {
+  --blueKenzie: #1c3868;
+
+  --titlePrimary: #ffffff;
+}
+.Header {
+  width: 99vw;
+  max-width: 1000px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.Title {
+  color: var(--titlePrimary);
+}
